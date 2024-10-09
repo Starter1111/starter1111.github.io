@@ -28,21 +28,15 @@ Work experience
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  See [https://starter1111.github.io/publications](Publication).
   
 Talks
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+  See [https://starter1111.github.io/talks](Talk).
   
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  See [https://starter1111.github.io/Teaching](Teaching).
   
 Service and leadership
 ======
