@@ -12,21 +12,30 @@ redirect_from:
 Education
 ======
 * **East China University of Science and Technology**, 2015-2020
+
   Ph.D in Control Science and Engineering
 
+
 * **Shanghai University**, 2012-2015
+
   M.S. in Control Science and Engineering
 
+
 * **Nanjing University of Science and Technology**, 2007-2011
+
   B.S. in Automation
 
 Work experience
 ======
 * **Tongji University**, Apr. 2023-
+* 
   Assistant Professor, College of Electronic and Information Engineering/Shanghai Research Institute for Intelligent Autonomous Systems
 
+
 * **East China University of Science and Technology**, Jul. 2020-Mar. 2023
+  
   Postdoctoral Researcher, School of Information Science and Engineering/Key Laboratory of Smart Manufacturing in Energy Chemical Process, Ministry of Education
+
   Supervisor: Professor Feng Qian (CAE Member)
 
 Publications
