@@ -11,9 +11,14 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Control Science and Engineering, East China University of Science and Technology, 2020
-* M.S. in Control Science and Engineering, Shanghai University, 2015
-* B.S. in Automation, Nanjing University of Science and Technology, 2011
+**East China University of Science and Technology**, 2015-2020
+* **Ph.D** in Control Science and Engineering
+
+**Shanghai University**, 2012-2015
+* **M.S.** in Control Science and Engineering
+
+**Nanjing University of Science and Technology**, 2007-2011
+* **B.S.** in Automation
 
 Work experience
 ======
