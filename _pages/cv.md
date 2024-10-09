@@ -28,15 +28,15 @@ Work experience
 
 Publications
 ======
-  See [https://starter1111.github.io/publications](Publication).
+  See [Publication](https://starter1111.github.io/publications).
   
 Talks
 ======
-  See [https://starter1111.github.io/talks](Talk).
+  See [Talks](https://starter1111.github.io/talks).
   
 Teaching
 ======
-  See [https://starter1111.github.io/Teaching](Teaching).
+  See [Teaching](https://starter1111.github.io/Teaching).
   
 Service and leadership
 ======
