@@ -28,7 +28,7 @@ Work experience
 
 Publications
 ======
-  See [Publication](https://starter1111.github.io/publications).
+  See [Publications](https://starter1111.github.io/publications).
   
 Talks
 ======
