@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of Michael. I am an Assistant Professor at Tongji University. My current research interests include hybrid systems, multiagent systems, and hybrid networked systems. 
+This is the front page of Michael. He is currently an Assistant Professor at Tongji University. His current research interests include hybrid systems, multiagent systems, and hybrid networked systems. 
